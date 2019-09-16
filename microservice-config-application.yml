@@ -14,6 +14,6 @@ server:
   port: 4002 #端口号
 spring:
   profiles: prod # 生产环境
-    application:
+  application:
     name: microservice-config-prod
 #保存时注意，选择 UTF-8 保存
